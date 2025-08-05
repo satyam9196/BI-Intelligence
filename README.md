@@ -12,3 +12,8 @@ This repository contains a variety of **Power BI dashboards and projects** built
 power-bi-intelligence/
 │
 ├── 18. Sample Data-2 (1).xlsx
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
